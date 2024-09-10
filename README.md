@@ -1,2 +1,2 @@
 # C_project
-Program to managae the the medical stuff
+Program to handel the billing of medical stuff.
